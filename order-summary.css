@@ -28,7 +28,6 @@ main{
     text-align: center;
     width: 20rem;
     border-radius: 1.25rem;
-    border: 1px solid black;
     margin-top: 0;
     top: 0;
 }
@@ -138,6 +137,7 @@ button{
     }
     main{
         width: 25rem;
+        margin: 5rem;
     }
     .payment-conform{
         width: 20rem;
